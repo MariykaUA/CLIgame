@@ -1,6 +1,6 @@
 1. Go step by step and do not jump over steps.
 2. Read every file you see on your way. To see the possible ways to move forward just open the list (the command).
-3. If you have teleport you can use it or not.
-4. You can fight only if you have a sword.
-5. You have only 2 lives and if you die you will return back to "FOREST" folder.
-6. Right now you can choose any direction you want and than you will find the following instructions.
+3. If you have teleportation you can use it or not.
+4. You can only fight if you have a sword.
+5. You have only 2 lives and if you die you will return back to the "FOREST" folder.
+6. Right now you can choose any direction you want and then you will find the following instructions.
