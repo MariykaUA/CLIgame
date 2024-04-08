@@ -1,1 +1,12 @@
-You did it. You see the old castle. Do you want to enter it? Or do you want to go back? 
+You did it. You see the old castle. 
+
+┈┈┈┈▅┈┈┈┈┈▅ ┈┈
+┈┈┈▕┈┈┈╱╲▕▀┈┈┈
+┈┈┈╱╲┈┈▏▕╱╲┈┈┈
+┈┈┈▏▕╱╲▏▎▏▕╱╲┈▃
+┈╱╲▏▎▅▂▅▂▏▎▏▎▏▏
+▂▏▎▏▕╭┳┳╮▏┊▏▕╱╲
+▏▏┊▏▎┃┊┊┃▏▎▏▎▏▕
+▇▆▅▃▂┻┻┻┻▂▃▅▆▇▉⛫⛫
+
+Do you want to enter it? Or do you want to go back? 
