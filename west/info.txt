@@ -1,1 +1,2 @@
-There are some golden coins on the ground. Will you follow this way and pick them? Or you can go back. 
+There are some golden coins on the ground. $$$
+Will you follow this way and pick them? Or you can go back. 

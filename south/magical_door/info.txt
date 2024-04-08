@@ -1,1 +1,6 @@
-The door was locked by forest creatures and you are still inside. No way out. You need a key to open the door. To do so create a key.txt. Now you can go back and choose another direction, because the door disappeared.
+The door was locked by forest creatures and you are still inside.
+        ∧＿∧
+　 (｡･ω･｡)つ━☆・*。
+  ⊂/　     /　   ・゜
+　しーＪ　　　     °。+ * 。　 
+No way out. You need a key to open the door. To do so create a key.txt. Now you can go back and choose another direction, because the door disappeared.
